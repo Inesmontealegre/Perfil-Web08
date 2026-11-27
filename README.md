@@ -16,10 +16,7 @@ A public web page with six sections:
 | Home | Ines Maria Montealegre Villanueva, your role, your links |
 | About |
 My name is Inés María Montealegre Villanueva.
-I'm studying web programming because I like technology. I use the computer to study and practice programming.,
-I want to learn more about web development., I want to improve my programming skills and my English.,
-I study web programming because, I like technology., 
-I use my computer to study, but I want to learn more about programming., I want to learn how to program and improve my English. |
+I'm studying web programming because I like technology. I use the computer to study and practice programming., I want to learn more about web development., I want to improve my programming skills and my English., I study web programming because, I like technology.,I use my computer to study, but I want to learn more about programming., I want to learn how to program and improve my English. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
