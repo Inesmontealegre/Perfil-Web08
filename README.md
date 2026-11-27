@@ -18,7 +18,7 @@ A public web page with six sections:
 | Skills |Technical Skills: 1. I use HTML to create web pages., 2. I use CSS to design websites., 3.I learn programming to develop applications., Professional Skills:, 1.I work well with other people., 2.I share my ideas clearly., 3. I complete my tasks on time.Your technical and professional skills|
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
-| Contact | How people can reach you |
+| Contact | No information available |
 
 ---
 
