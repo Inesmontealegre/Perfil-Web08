@@ -16,8 +16,8 @@ A public web page with six sections:
 | Home | Ines Maria Montealegre Villanueva, your role, your links |
 | About |I'm studying web programming because I like technology. I use the computer to study and practice programming., I want to learn more about web development., I want to improve my programming skills and my English.|
 | Skills |Technical Skills: 1. I use HTML to create web pages., 2. I use CSS to design websites., 3.I learn programming to develop applications., Professional Skills:, 1.I work well with other people., 2.I share my ideas clearly., 3. I complete my tasks on time.Your technical and professional skills|
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
+| Resume |I have a high school diploma and am currently pursuing a vocational degree in web programming |
+| Projects | none at this time |
 | Contact | No information available |
 
 ---
